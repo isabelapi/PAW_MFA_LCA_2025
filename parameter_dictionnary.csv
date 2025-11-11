@@ -1,0 +1,22 @@
+﻿parameter type,from,to,dimension
+shares,Iww,decentralized treatments,s y 
+y,Adv O,oxidized compounds,
+y,char,oxidized compounds,
+y,o3,oxidized compounds,
+y,no,oxidized compounds,
+shares,decentralized treatments,2ndary treatment,s y 
+shares,decentralized treatments,water discharge,s y 
+y,2ndary treatment,oxidized compounds,
+shares,2ndary treatment,adv. Ox,s y 
+shares,2ndary treatment,char,s y 
+shares,2ndary treatment,o3,s y 
+shares,2ndary treatment,No treatment,s y 
+y,adv. Ox,oxidized compounds,
+y,char,oxidized compounds,
+y,o3,oxidized compounds,
+y,no,oxidized compounds,
+shares,water discharge,river,s y 
+shares,water discharge,irigation,s y 
+shares,sludge,incinerator,s y 
+shares,incinerator,oxidized compounds,
+shares,sludge,fertilizer,s y 
