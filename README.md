@@ -8,5 +8,31 @@ PAW is a prospective Life Cycle Assessment (pLCA) and Material Flow Analysis (MF
 # System definition
 ADD FLOWCHART IMAGE
 
+###  System Boundaries
+- Functional Unit = 1 m3 water treated in Germany
+- Time 2020 - 2035 - 2045 (related to UWWTD years)
+- Geography = Germany
+- Scope: Excluding Infrastructure impacts from LCA
+### Impact Factors
+- USEtox (freshwater ecotoxicity)
+	- to soil
+	- to water
+- GWP
+
+# Assumptions to simplify
+
+- [x] Assume: Removal Rate of technologies does not change with inflow concentration
+- [x] only 1 average CEC toxicity is evaluated - USEtox average into biosphere database
+- [x] Assume: Energy consumption of technologies does not change with inflow concentration
+
+# Dimensions
+
+r - country == germany
+s - scenarios (cornerstones??)
+	- 1. high environmental policy
+	- 2. low ...
+y - years (2020 / 2035 / 2045)
+c - type of carrier (sludge , Water, oxidized contaminants)
+x - substance (water, sludge, contaminant)
 
 
