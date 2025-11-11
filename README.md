@@ -1,6 +1,6 @@
 # PAW: Prospective Assessment of waste water treatment
 PAW is a prospective Life Cycle Assessment (pLCA) and Material Flow Analysis (MFA) model created as part of the Depart de Sentier (DdS) Autumn School 2025.
-![logo](/blob/main/PAW_logo.jpg?raw=true)
+![logo](/blob/main/PAW_logo.png?raw=true)
 
 
 # Goal
