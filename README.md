@@ -6,6 +6,7 @@ PAW is a prospective Life Cycle Assessment (pLCA) and Material Flow Analysis (MF
 # Goal
 
 # System definition
+--> look into the file MFA&LCA CEC model.canvas for obsidian
 <img width="1261" height="535" alt="image" src="https://github.com/user-attachments/assets/b6d0c772-eb60-4ae0-bbcf-877ef2bce776" />
 
 
