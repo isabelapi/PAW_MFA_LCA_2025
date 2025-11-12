@@ -28,6 +28,7 @@ Groundwater -> gro #notused
 No further treatment -> nof
 landfill -> lan
 CO2 -> co2
+system environment -> sysenv
 
 ## Other names
 
