@@ -1,0 +1,13 @@
+carrier,scenario,substance,region,value
+sldg,high_env_pol,car,DE,0.0
+sldg,high_env_pol,cec,DE,0.0
+sldg,low_env_pol,car,DE,0.0
+sldg,low_env_pol,cec,DE,0.0
+wtr,high_env_pol,car,DE,0.0
+wtr,high_env_pol,cec,DE,0.0
+wtr,low_env_pol,car,DE,0.0
+wtr,low_env_pol,cec,DE,0.0
+oxi_con,high_env_pol,car,DE,0.0
+oxi_con,high_env_pol,cec,DE,0.0
+oxi_con,low_env_pol,car,DE,0.0
+oxi_con,low_env_pol,cec,DE,0.0
