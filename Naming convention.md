@@ -25,6 +25,7 @@ Water Discharge -> wtr_dis
 Irrigation -> irr
 River -> riv
 Groundwater -> gro
+No further treatment -> nof
 
 ## Other names
 
