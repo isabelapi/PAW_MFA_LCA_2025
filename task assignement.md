@@ -11,7 +11,7 @@
 
 ## MFA
 
--[ ] Creation of the parameters files David
+- [ ] Creation of the parameters files David
 - [ ] Build the MFA model Isabela|David
 - [ ] Update the scenario file
 - [ ] Generate full dataset and make it available for LCA
