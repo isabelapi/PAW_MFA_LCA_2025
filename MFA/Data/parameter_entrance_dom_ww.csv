@@ -1,4 +1,4 @@
-﻿egion,carrier,scenario,substance,time,value
+﻿region,carrier,scenario,substance,time,value
 DE, wtr, high_env_pol, car,2020,5193432470
 DE, wtr, low_env_pol, car,2020,5193432470
 DE, sldg, high_env_pol, car,2020,636118951
