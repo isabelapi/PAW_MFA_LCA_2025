@@ -2,18 +2,11 @@
 abs,ent,dom_ww,r c s x t
 abs,ent,ind_ww,r c s x t
 shr,ind_ww,dec_tre,r c s x t g
-yld,aop,oxi_com,r c x
-yld,gac,oxi_com,r c x
-yld,o3,oxi_com,r c x
-yld,nof,oxi_com,r c x
+yld,dec_tre,oxi_com,r c x g
 shr,dec_tre,sec_tre,r c s x t g
 yld,sec_tre,oxi_com,r c x
 shr,sec_tre,qua_tre,r c s x t g
-yld,aop,oxi_com,r c x
-yld,gac,oxi_com,r c x
-yld,o3,oxi_com,r c x
-yld,nof,oxi_com,r c x
+yld,qua_tre,oxi_com,r c x g
 shr,wtr_dis,riv,r c s x t
-shr,wtr_dis,irr,r c s x t
 shr,inc,oxi_com,r c x
 shr,sldge,fer,r c s x t
