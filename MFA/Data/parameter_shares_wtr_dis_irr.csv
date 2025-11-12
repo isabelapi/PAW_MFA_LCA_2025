@@ -1,0 +1,7 @@
+﻿region, carrier, scenario, time, value
+DE, wtr, high_env_pol, 2020, 0.
+DE, wtr, low_env_pol, 2020, 0.1
+DE, wtr, high_env_pol, 2035, 0.4
+DE, wtr, low_env_pol, 2035, 0.2
+DE, wtr, high_env_pol, 2045, 0.6
+DE, wtr, low_env_pol, 2045, 0.3
