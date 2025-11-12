@@ -1,25 +1,25 @@
-﻿region, carrier, scenario, substance, time, value
-DE, wtr, high_env_pol, wtr, 2020, 1000
-DE, wtr, low_env_pol, wtr, 2020, 1000
-DE, wtr, high_env_pol, wtr, 2035, 1000
-DE, wtr, low_env_pol, wtr, 2035, 1000
-DE, wtr, high_env_pol, wtr, 2045, 1000
-DE, wtr, low_env_pol, wtr, 2045, 1000
-DE, sldg, high_env_pol, sldg, 2020, 1000
-DE, sldg, low_env_pol, sldg, 2020, 1000
-DE, sldg, high_env_pol, sldg, 2035, 1000
-DE, sldg, low_env_pol, sldg, 2035, 1000
-DE, sldg, high_env_pol, sldg, 2045, 1000
-DE, sldg, low_env_pol, sldg, 2045, 1000
-DE, wtr, high_env_pol, cec, 2020, 10
-DE, wtr, low_env_pol, cec, 2020, 10
-DE, wtr, high_env_pol, cec, 2035, 10
-DE, wtr, low_env_pol, cec, 2035, 10
-DE, wtr, high_env_pol, cec, 2045, 10
-DE, wtr, low_env_pol, cec, 2045, 10
-DE, sldg, high_env_pol, cec, 2020, 10
-DE, sldg, low_env_pol, cec, 2020, 10
-DE, sldg, high_env_pol, cec, 2035, 10
-DE, sldg, low_env_pol, cec, 2035, 10
-DE, sldg, high_env_pol, cec, 2045, 10
-DE, sldg, low_env_pol, cec, 2045, 10
+﻿egion,carrier,scenario,substance,time,value
+DE, wtr, high_env_pol, wtr,2020,5193432470
+DE, wtr, low_env_pol, wtr,2020,5193432470
+DE, sldg, high_env_pol, sldg,2020,636118951
+DE, sldg, low_env_pol, sldg,2020,636118951
+DE, wtr, high_env_pol, cec,2020,1053079.531
+DE, wtr, low_env_pol, cec,2020,1053079.531
+DE, sldg, high_env_pol, cec,2020,0
+DE, sldg, low_env_pol, cec,2020,0
+DE, wtr, high_env_pol, wtr,2035,5149786485
+DE, wtr, low_env_pol, wtr,2035,5149786485
+DE, sldg, high_env_pol, sldg,2035,630772961
+DE, sldg, low_env_pol, sldg,2035,630772961
+DE, wtr, high_env_pol, cec,2035,1044229.374
+DE, wtr, low_env_pol, cec,2035,1044229.374
+DE, sldg, high_env_pol, cec,2035,0
+DE, sldg, low_env_pol, cec,2035,0
+DE, wtr, high_env_pol, wtr,2045,5058262875
+DE, wtr, low_env_pol, wtr,2045,5058262875
+DE, sldg, high_env_pol, sldg,2045,619562667.4
+DE, sldg, low_env_pol, sldg,2045,619562667.4
+DE, wtr, high_env_pol, cec,2045,1025671.004
+DE, wtr, low_env_pol, cec,2045,1025671.004
+DE, sldg, high_env_pol, cec,2045,0
+DE, sldg, low_env_pol, cec,2045,0
