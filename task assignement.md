@@ -7,7 +7,7 @@
     -> To be revisited
 - [X] Naming convention
 - [ ] Scenario creation Matthias|Sabrina
-- [ ] Create packages requirements.txt
+- [X] Create packages requirements.txt
 
 ## MFA
 
