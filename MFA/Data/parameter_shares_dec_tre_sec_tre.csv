@@ -1,49 +1,49 @@
-﻿region, carrier, scenario, time, technology, value
-DE, wtr, high_env_pol,2020, aop,0.46
-DE, wtr, high_env_pol,2020, nof,1.00
-DE, wtr, high_env_pol,2020, o3,0.46
-DE, wtr, high_env_pol,2020, gac,0.46
-DE, wtr, low_env_pol,2020, nof,1.00
-DE, wtr, low_env_pol,2020, aop,0.46
-DE, wtr, low_env_pol,2020, o3,0.46
-DE, wtr, low_env_pol,2020, gac,0.46
-DE, wtr, high_env_pol,2035, nof,0.46
-DE, wtr, high_env_pol,2035, aop,1.00
-DE, wtr, high_env_pol,2035, o3,0.46
-DE, wtr, high_env_pol,2035, gac,0.46
-DE, wtr, low_env_pol,2035, nof,1.00
-DE, wtr, low_env_pol,2035, aop,0.46
-DE, wtr, low_env_pol,2035, o3,0.46
-DE, wtr, low_env_pol,2035, gac,0.46
-DE, wtr, high_env_pol,2045, nof,0.46
-DE, wtr, high_env_pol,2045, aop,1.00
-DE, wtr, high_env_pol,2045, o3,0.46
-DE, wtr, high_env_pol,2045, gac,0.46
-DE, wtr, low_env_pol,2045, nof,1.00
-DE, wtr, low_env_pol,2045, aop,0.46
-DE, wtr, low_env_pol,2045, o3,0.46
-DE, wtr, low_env_pol,2045, gac,0.46
-DE, sldg, high_env_pol,2020, nof,1.00
-DE, sldg, high_env_pol,2020, aop,1.00
-DE, sldg, high_env_pol,2020, o3,1.00
-DE, sldg, high_env_pol,2020, gac,1.00
-DE, sldg, low_env_pol,2020, nof,1.00
-DE, sldg, low_env_pol,2020, aop,1.00
-DE, sldg, low_env_pol,2020, o3,1.00
-DE, sldg, low_env_pol,2020, gac,1.00
-DE, sldg, high_env_pol,2035, nof,1.00
-DE, sldg, high_env_pol,2035, aop,1.00
-DE, sldg, high_env_pol,2035, o3,1.00
-DE, sldg, high_env_pol,2035, gac,1.00
-DE, sldg, low_env_pol,2035, nof,1.00
-DE, sldg, low_env_pol,2035, aop,1.00
-DE, sldg, low_env_pol,2035, o3,1.00
-DE, sldg, low_env_pol,2035, gac,1.00
-DE, sldg, high_env_pol,2045, nof,1.00
-DE, sldg, high_env_pol,2045, aop,1.00
-DE, sldg, high_env_pol,2045, o3,1.00
-DE, sldg, high_env_pol,2045, gac,1.00
-DE, sldg, low_env_pol,2045, nof,1.00
-DE, sldg, low_env_pol,2045, aop,1.00
-DE, sldg, low_env_pol,2045, o3,1.00
-DE, sldg, low_env_pol,2045, gac,1.00
+﻿region,carrier,scenario,time,technology,value
+DE,wtr,high_env_pol,2020,aop,0.46
+DE,wtr,high_env_pol,2020,nof,1.00
+DE,wtr,high_env_pol,2020,o3,0.46
+DE,wtr,high_env_pol,2020,gac,0.46
+DE,wtr,low_env_pol,2020,nof,1.00
+DE,wtr,low_env_pol,2020,aop,0.46
+DE,wtr,low_env_pol,2020,o3,0.46
+DE,wtr,low_env_pol,2020,gac,0.46
+DE,wtr,high_env_pol,2035,nof,0.46
+DE,wtr,high_env_pol,2035,aop,1.00
+DE,wtr,high_env_pol,2035,o3,0.46
+DE,wtr,high_env_pol,2035,gac,0.46
+DE,wtr,low_env_pol,2035,nof,1.00
+DE,wtr,low_env_pol,2035,aop,0.46
+DE,wtr,low_env_pol,2035,o3,0.46
+DE,wtr,low_env_pol,2035,gac,0.46
+DE,wtr,high_env_pol,2045,nof,0.46
+DE,wtr,high_env_pol,2045,aop,1.00
+DE,wtr,high_env_pol,2045,o3,0.46
+DE,wtr,high_env_pol,2045,gac,0.46
+DE,wtr,low_env_pol,2045,nof,1.00
+DE,wtr,low_env_pol,2045,aop,0.46
+DE,wtr,low_env_pol,2045,o3,0.46
+DE,wtr,low_env_pol,2045,gac,0.46
+DE,sldg,high_env_pol,2020,nof,1.00
+DE,sldg,high_env_pol,2020,aop,1.00
+DE,sldg,high_env_pol,2020,o3,1.00
+DE,sldg,high_env_pol,2020,gac,1.00
+DE,sldg,low_env_pol,2020,nof,1.00
+DE,sldg,low_env_pol,2020,aop,1.00
+DE,sldg,low_env_pol,2020,o3,1.00
+DE,sldg,low_env_pol,2020,gac,1.00
+DE,sldg,high_env_pol,2035,nof,1.00
+DE,sldg,high_env_pol,2035,aop,1.00
+DE,sldg,high_env_pol,2035,o3,1.00
+DE,sldg,high_env_pol,2035,gac,1.00
+DE,sldg,low_env_pol,2035,nof,1.00
+DE,sldg,low_env_pol,2035,aop,1.00
+DE,sldg,low_env_pol,2035,o3,1.00
+DE,sldg,low_env_pol,2035,gac,1.00
+DE,sldg,high_env_pol,2045,nof,1.00
+DE,sldg,high_env_pol,2045,aop,1.00
+DE,sldg,high_env_pol,2045,o3,1.00
+DE,sldg,high_env_pol,2045,gac,1.00
+DE,sldg,low_env_pol,2045,nof,1.00
+DE,sldg,low_env_pol,2045,aop,1.00
+DE,sldg,low_env_pol,2045,o3,1.00
+DE,sldg,low_env_pol,2045,gac,1.00

@@ -1,9 +1,9 @@
-﻿region, carrier, substance, technology, value
-DE, wtr, cec, aop,0.8
-DE, sldg, cec, aop,0.8
-DE, wtr, cec, gac,0.8
-DE, sldg, cec, gac,0.8
-DE, wtr, cec, o3,0.8
-DE, sldg, cec, o3,0.8
-DE, wtr, cec, nof,0
-DE, sldg, cec, nof,0
+﻿region,carrier,substance,technology,value
+DE,wtr,cec,aop,0.8
+DE,sldg,cec,aop,0.8
+DE,wtr,cec,gac,0.8
+DE,sldg,cec,gac,0.8
+DE,wtr,cec,o3,0.8
+DE,sldg,cec,o3,0.8
+DE,wtr,cec,nof,0
+DE,sldg,cec,nof,0

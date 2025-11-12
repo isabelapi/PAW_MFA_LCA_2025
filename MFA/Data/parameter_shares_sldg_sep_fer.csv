@@ -1,7 +1,7 @@
-﻿region, carrier, scenario, time, value
-DE, sldg, high_env_pol, 2020, 0.33
-DE, sldg, low_env_pol, 2020, 0.33
-DE, sldg, high_env_pol, 2035, 0.175
-DE, sldg, low_env_pol, 2035, 0.33
-DE, sldg, high_env_pol, 2045, 0
-DE, sldg, low_env_pol, 2045, 0.33
+﻿region,carrier,scenario,time,value
+DE,sldg,high_env_pol,2020,0.33
+DE,sldg,low_env_pol,2020,0.33
+DE,sldg,high_env_pol,2035,0.175
+DE,sldg,low_env_pol,2035,0.33
+DE,sldg,high_env_pol,2045,0
+DE,sldg,low_env_pol,2045,0.33
