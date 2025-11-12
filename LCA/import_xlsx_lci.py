@@ -10,11 +10,11 @@ from bw2data import Database
 print(bd.projects)
 
 # Define variables first
-projectName = "UWWTD Harmonization"
-database = "Electricity"
-ei_match = "ei11_cut_harmon_35_50"  # the EI version in the project  & file
-biosphere_match = "biosphere-3.11"  # the biosphere version in the project  & file
-path = r"C:\Users\Asus\OneDrive - Universidade de Santiago de Compostela\07_Papers\Harmonization study\UWWTD papers\UWWTD inventories_importer_db_ei311premise.xlsx"
+projectName = "paw_lca"
+database = "paw_db" # check
+ei_match = "ecoinvent-3.11-cutoff"  # the EI version in the project  & file
+biosphere_match = "ecoinvent-3.11-biosphere"  # the biosphere version in the project  & file
+path = "LCI_ Inventories"
 # r"C:\Users\Asus\OneDrive - Universidade de Santiago de Compostela\07_Papers\Harmonization study\harmonization inventories_importer_db_test.xlsx"
 ##########################################################
 
