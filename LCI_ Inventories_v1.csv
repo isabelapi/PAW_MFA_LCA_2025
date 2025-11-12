@@ -1,0 +1,187 @@
+﻿cutoff;11;;;;;;;;;;;;;
+Database;paw_db;;;;;;;;;;;;;
+format;Excel spreadsheet;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Activity;Electricity 230;;;;;;;;;;;;;
+code;230_elec;;;;;;;;;;;;;
+paper;YangLi2019;;;;;;;;;;;;;
+case_id;230;;;;;;;;;;;;;
+lcs;Operation;;;;;;;;;;;;;
+case_study;YangLi2019-GAC;;;;;;;;;;;;;
+location;RER;;;;;;;;;;;;;
+amount;1;;;;;;;;;;;;;
+type;process;;;;;;;;;;;;;
+unit;cubic meter;;;;;;;;;;;;;
+reference product;electricity per m3;;;;;;;;;;;;;
+Exchanges;;;;;;;;;;;;;;
+code;name;amount;unit;database;categories;location;type;reference product;uncertainty type;loc;scale;shape;minimum;maximum
+230_elec;Electricity 230;1;cubic meter;paw_db;None;RER;production;electricity per m3;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market group for electricity, medium voltage;0,231;kilowatt hours;ecoinvent-3.11-cutoff;none;RER;technosphere;electricity, medium voltage;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+;;;;;;;;;;;;;;
+Activity;GAC 230;;;;;;;;;;;;;
+code;230_gac;;;;;;;;;;;;;
+paper;YangLi2019;;;;;;;;;;;;;
+case_id;230;;;;;;;;;;;;;
+lcs;Operation;;;;;;;;;;;;;
+case_study;YangLi2019-GAC;;;;;;;;;;;;;
+location;RER;;;;;;;;;;;;;
+amount;1;;;;;;;;;;;;;
+type;process;;;;;;;;;;;;;
+unit;cubic meter;;;;;;;;;;;;;
+reference product;GAC per m3;;;;;;;;;;;;;
+Exchanges;;;;;;;;;;;;;;
+code;name;amount;unit;database;categories;location;type;reference product;uncertainty type;loc;scale;shape;minimum;maximum
+230_gac;GAC 230;0;cubic meter;paw_db;None;RER;production;GAC per m3;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);treatment of spent activated carbon, granular from hard coal, reactivation;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;activated carbon, granular;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for activated carbon, granular;0,015;kilogram;ecoinvent-3.11-cutoff;none;GLO;technosphere;activated carbon, granular;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+;;;;;;;;;;;;;;
+Activity;Chemicals 230;;;;;;;;;;;;;
+code;230_chem;;;;;;;;;;;;;
+paper;YangLi2019;;;;;;;;;;;;;
+case_id;230;;;;;;;;;;;;;
+lcs;Operation;;;;;;;;;;;;;
+case_study;YangLi2019-GAC;;;;;;;;;;;;;
+location;RER;;;;;;;;;;;;;
+amount;1;;;;;;;;;;;;;
+type;process;;;;;;;;;;;;;
+unit;cubic meter;;;;;;;;;;;;;
+reference product;chemicals per m3;;;;;;;;;;;;;
+Exchanges;;;;;;;;;;;;;;
+code;name;amount;unit;database;categories;location;type;reference product;uncertainty type;loc;scale;shape;minimum;maximum
+230_chem;Chemicals 230;1;cubic meter;paw_db;None;RER;production;chemicals per m3;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for sodium sulfate, anhydrite;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;sodium sulfate, anhydrite;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for sodium nitrate;0;kilogram;ecoinvent-3.11-cutoff;none;GLO;technosphere;sodium nitrate;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for sodium hydroxide, without water, in 50% solution state;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;sodium hydroxide, without water, in 50% solution state;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for hydrogen peroxide, without water, in 50% solution state;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;hydrogen peroxide, without water, in 50% solution state;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for iron sulfate;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;iron sulfate;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for sulfuric acid;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;sulfuric acid;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for calcium carbonate, precipitated;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;calcium carbonate, precipitated;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for oxygen, liquid;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;oxygen, liquid;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for EDTA, ethylenediaminetetraacetic acid;0;kilogram;ecoinvent-3.11-cutoff;none;GLO;technosphere;EDTA, ethylenediaminetetraacetic acid;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);Water, cooling, unspecified origin;0;cubic meter;ecoinvent-3.11-biosphere;natural resource::in water;;biosphere;;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for ozone, liquid;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;ozone, liquid;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for hydrochloric acid, without water, in 30% solution state;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;hydrochloric acid, without water, in 30% solution state;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for sand;0,0627;kilogram;ecoinvent-3.11-cutoff;none;RoW;technosphere;sand;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for chlorine, liquid;0,003;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;chlorine, liquid;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for aluminium chloride;0,06;kilogram;ecoinvent-3.11-cutoff;none;GLO;technosphere;aluminium chloride;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for sodium sulfate, anhydrite;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;sodium sulfate, anhydrite;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for iron(II) chloride;0;kilogram;ecoinvent-3.11-cutoff;none;GLO;technosphere;iron(II) chloride;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for polyacrylamide;0,0005;kilogram;ecoinvent-3.11-cutoff;none;GLO;technosphere;polyacrylamide;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for sodium chlorate, powder;0;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;sodium chlorate, powder;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+;;;;;;;;;;;;;;
+Activity;Emissions 230;;;;;;;;;;;;;
+code;230_em;;;;;;;;;;;;;
+paper;YangLi2019;;;;;;;;;;;;;
+case_id;230;;;;;;;;;;;;;
+lcs;Operation;;;;;;;;;;;;;
+case_study;YangLi2019-GAC;;;;;;;;;;;;;
+location;RER;;;;;;;;;;;;;
+amount;1;;;;;;;;;;;;;
+type;process;;;;;;;;;;;;;
+unit;cubic meter;;;;;;;;;;;;;
+reference product;direct emissions per m3;;;;;;;;;;;;;
+Exchanges;;;;;;;;;;;;;;
+code;name;amount;unit;database;categories;location;type;reference product;uncertainty type;loc;scale;shape;minimum;maximum
+230_em;Emissions 230;0;cubic meter;paw_db;None;RER;production;direct emissions per m3;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);Carbon dioxide, fossil;0,00505;kilogram;ecoinvent-3.11-biosphere;air;;biosphere;;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);treatment of municipal solid waste, municipal incineration;-0,003;kilogram;ecoinvent-3.11-cutoff;none;RoW;technosphere;municipal solid waste;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);treatment of wastewater, average, wastewater treatment;-0,000000545;cubic meter;ecoinvent-3.11-cutoff;none;Europe without Switzerland;technosphere;wastewater, average;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for inert waste;-0,00505;kilogram;ecoinvent-3.11-cutoff;none;RER;technosphere;inert waste;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+;;;;;;;;;;;;;;
+Activity;Electricity 102;;;;;;;;;;;;;
+code;102_elec;;;;;;;;;;;;;
+paper;Arzate2019;;;;;;;;;;;;;
+case_id;102;;;;;;;;;;;;;
+lcs;Operation;;;;;;;;;;;;;
+case_study;Arzate2019-OZ;;;;;;;;;;;;;
+location;RER;;;;;;;;;;;;;
+amount;1;;;;;;;;;;;;;
+type;process;;;;;;;;;;;;;
+unit;cubic meter;;;;;;;;;;;;;
+reference product;electricity per m3;;;;;;;;;;;;;
+Exchanges;;;;;;;;;;;;;;
+code;name;amount;unit;database;categories;location;type;reference product;uncertainty type;loc;scale;shape;minimum;maximum
+102_elec;Electricity 102;1;cubic meter;paw_db;None;RER;production;electricity per m3;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market group for electricity, medium voltage;0,17;kilowatt hours;ecoinvent-3.11-cutoff;None;RER;technosphere;electricity, medium voltage;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+;;;;;;;;;;;;;;
+Activity;Chemicals 102;;;;;;;;;;;;;
+code;102_chem;;;;;;;;;;;;;
+paper;Arzate2019;;;;;;;;;;;;;
+case_id;102;;;;;;;;;;;;;
+lcs;Operation;;;;;;;;;;;;;
+case_study;Arzate2019-OZ;;;;;;;;;;;;;
+location;RER;;;;;;;;;;;;;
+amount;1;;;;;;;;;;;;;
+type;process;;;;;;;;;;;;;
+unit;cubic meter;;;;;;;;;;;;;
+reference product;chemicals per m3;;;;;;;;;;;;;
+Exchanges;;;;;;;;;;;;;;
+code;name;amount;unit;database;categories;location;type;reference product;uncertainty type;loc;scale;shape;minimum;maximum
+102_chem;Chemicals 102;1;cubic meter;paw_db;None;RER;production;chemicals per m3;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for oxygen, liquid;0,114;kilogram;ecoinvent-3.11-cutoff;None;RER;technosphere;oxygen, liquid;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+;;;;;;;;;;;;;;
+Activity;Chemicals 128;;;;;;;;;;;;;
+code;128_chem;;;;;;;;;;;;;
+paper;Pesqueira2021;;;;;;;;;;;;;
+case_id;128;;;;;;;;;;;;;
+lcs;Operation;;;;;;;;;;;;;
+case_study;Pesqueira2021-TiO2-P25/H2O2;;;;;;;;;;;;;
+location;RER;;;;;;;;;;;;;
+amount;1;;;;;;;;;;;;;
+type;process;;;;;;;;;;;;;
+unit;cubic meter;;;;;;;;;;;;;
+reference product;chemicals per m3;;;;;;;;;;;;;
+Exchanges;;;;;;;;;;;;;;
+code;name;amount;unit;database;categories;location;type;reference product;uncertainty type;loc;scale;shape;minimum;maximum
+128_chem;Chemicals 128;1;cubic meter;paw_db;None;RER;production;chemicals per m3;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for hydrogen peroxide, without water, in 50% solution state;0,02;kilogram;ecoinvent-3.11-cutoff;None;RER;technosphere;hydrogen peroxide, without water, in 50% solution state;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for sodium hydroxide, without water, in 50% solution state;0;kilogram;ecoinvent-3.11-cutoff;None;RER;technosphere;sodium hydroxide, without water, in 50% solution state;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for titanium dioxide;0,02;kilogram;ecoinvent-3.11-cutoff;None;RER;technosphere;titanium dioxide;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+;;;;;;;;;;;;;;
+Activity;sludge incineration ;;;;;;;;;;;;;
+code;inc;;;;;;;;;;;;;
+location;Europe without Switzerland;;;;;;;;;;;;;
+amount;1;;;;;;;;;;;;;
+type;process;;;;;;;;;;;;;
+unit;kilogram;;;;;;;;;;;;;
+reference product;sewage sludge, 70% water, WWT, WW, average;;;;;;;;;;;;;
+Exchanges;;;;;;;;;;;;;;
+code;name;amount;unit;database;categories;location;type;reference product;uncertainty type;loc;scale;shape;minimum;maximum
+inc;sludge incineration ;1;kilogram;paw_db;None;Europe without Switzerland;production;sewage sludge, 70% water, WWT, WW, average;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);treatment of sewage sludge, 70% water, WWT, WW, average, municipal incineration;1;kilogram;ecoinvent-3.11-cutoff;none;Europe without Switzerland;technosphere;sewage sludge, 70% water, WWT, WW, average;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+;;;;;;;;;;;;;;
+Activity;secondary treatment;;;;;;;;;;;;;
+code;sec_tre;;;;;;;;;;;;;
+location;Europe without Switzerland;;;;;;;;;;;;;
+amount;1;;;;;;;;;;;;;
+type;process;;;;;;;;;;;;;
+unit;cubic meter;;;;;;;;;;;;;
+reference product;wastewater, average;;;;;;;;;;;;;
+Exchanges;;;;;;;;;;;;;;
+code;name;amount;unit;database;categories;location;type;reference product;uncertainty type;loc;scale;shape;minimum;maximum
+sec_tre;secondary treatment;1;cubic meter;paw_db;None;Europe without Switzerland;production;wastewater, average;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);treatment of wastewater, average, wastewater treatment;1;cubic meter;ecoinvent-3.11-cutoff;none;Europe without Switzerland;technosphere;wastewater, average;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+;;;;;;;;;;;;;;
+Activity;transport of sludge to incineration;;;;;;;;;;;;;
+code;trans_sldg_to_inc;;;;;;;;;;;;;
+location;RER;;;;;;;;;;;;;
+amount;1;;;;;;;;;;;;;
+type;process;;;;;;;;;;;;;
+unit;metric ton kilometer;;;;;;;;;;;;;
+reference product;transport, freight, lorry, diesel, unspecified;;;;;;;;;;;;;
+Exchanges;;;;;;;;;;;;;;
+code;name;amount;unit;database;categories;location;type;reference product;uncertainty type;loc;scale;shape;minimum;maximum
+trans_sldg_to_inc;transport of sludge to incineration;1;metric ton kilometer;paw_db;None;RER;production;transport, freight, lorry, diesel, unspecified;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for transport, freight, lorry, unspecified;100;metric ton kilometer;ecoinvent-3.11-cutoff;none;RER;technosphere;sewage sludge;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+;;;;;;;;;;;;;;
+Activity;transport of fertilizer to soil;;;;;;;;;;;;;
+code;trans_fer_to_soi;;;;;;;;;;;;;
+location;RER;;;;;;;;;;;;;
+amount;1;;;;;;;;;;;;;
+type;process;;;;;;;;;;;;;
+unit;metric ton kilometer;;;;;;;;;;;;;
+reference product;transport, freight, lorry, diesel, unspecified;;;;;;;;;;;;;
+Exchanges;;;;;;;;;;;;;;
+code;name;amount;unit;database;categories;location;type;reference product;uncertainty type;loc;scale;shape;minimum;maximum
+trans_fer_to_soi;transport of fertilizer to soil;1;metric ton kilometer;paw_db;None;RER;production;transport, freight, lorry, diesel, unspecified;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
+(Unknown);market for transport, freight, lorry, unspecified;100;metric ton kilometer;ecoinvent-3.11-cutoff;none;RER;technosphere;sewage sludge;0;(Unknown);(Unknown);(Unknown);(Unknown);(Unknown)
