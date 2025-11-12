@@ -24,8 +24,10 @@ Soil -> soi
 Water Discharge -> wtr_dis
 Irrigation -> irr
 River -> riv
-Groundwater -> gro
+Groundwater -> gro #notused
 No further treatment -> nof
+landfill -> lan
+CO2 -> co2
 
 ## Other names
 
