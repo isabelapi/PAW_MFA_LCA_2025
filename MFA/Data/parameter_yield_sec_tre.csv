@@ -3,5 +3,5 @@ DE,wtr,cec,0.2
 DE,sldg,cec,0.2
 DE,wtr,car,0
 DE,sldg,car,0
-DE,oxi_con,cec,0
-DE,oxi_con,car,0
+DE,oxi_con,cec,1
+DE,oxi_con,car,1
