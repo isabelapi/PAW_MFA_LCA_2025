@@ -28,7 +28,7 @@ time,carrier,scenario,region,substance,value
 2045,sldg,low_env_pol,DE,car,0.0
 2045,sldg,low_env_pol,DE,cec,0.0
 2045,wtr,high_env_pol,DE,car,284753974.4112
-2045,wtr,high_env_pol,DE,cec,13.240772399999999
+2045,wtr,high_env_pol,DE,cec,13.2407724
 2045,wtr,low_env_pol,DE,car,0.0
 2045,wtr,low_env_pol,DE,cec,0.0
 2045,oxi_con,high_env_pol,DE,car,0.0
