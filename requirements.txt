@@ -1,7 +1,0 @@
-# MFA
-flodym >= 0.5.1
-
-# LCA
-brightway25
-plotly
-pypardiso
