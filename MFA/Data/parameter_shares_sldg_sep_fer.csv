@@ -5,3 +5,15 @@ DE,sldg,high_env_pol,2035,0.175
 DE,sldg,low_env_pol,2035,0.33
 DE,sldg,high_env_pol,2045,0
 DE,sldg,low_env_pol,2045,0.33
+DE,oxi_con,high_env_pol,2020,0
+DE,oxi_con,low_env_pol,2020,0
+DE,oxi_con,high_env_pol,2035,0
+DE,oxi_con,low_env_pol,2035,0
+DE,oxi_con,high_env_pol,2045,0
+DE,oxi_con,low_env_pol,2045,0
+DE,wtr,high_env_pol,2020,0
+DE,wtr,low_env_pol,2020,0
+DE,wtr,high_env_pol,2035,0
+DE,wtr,low_env_pol,2035,0
+DE,wtr,high_env_pol,2045,0
+DE,wtr,low_env_pol,2045,0
