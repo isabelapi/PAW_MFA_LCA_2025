@@ -23,3 +23,15 @@ DE,wtr,high_env_pol,cec,2045,1025.67
 DE,wtr,low_env_pol,cec,2045,1025.67
 DE,sldg,high_env_pol,cec,2045,0.00
 DE,sldg,low_env_pol,cec,2045,0.00
+DE,oxi_con,high_env_pol,car,2020,0
+DE,oxi_con,low_env_pol,car,2020,0
+DE,oxi_con,high_env_pol,cec,2020,0
+DE,oxi_con,low_env_pol,cec,2020,0
+DE,oxi_con,high_env_pol,car,2035,0
+DE,oxi_con,low_env_pol,car,2035,0
+DE,oxi_con,high_env_pol,cec,2035,0
+DE,oxi_con,low_env_pol,cec,2035,0
+DE,oxi_con,high_env_pol,car,2045,0
+DE,oxi_con,low_env_pol,car,2045,0
+DE,oxi_con,high_env_pol,cec,2045,0
+DE,oxi_con,low_env_pol,cec,2045,0

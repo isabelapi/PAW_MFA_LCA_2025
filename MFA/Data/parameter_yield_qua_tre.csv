@@ -7,3 +7,7 @@ DE,wtr,cec,o3,0.8
 DE,sldg,cec,o3,0.8
 DE,wtr,cec,nof,0
 DE,sldg,cec,nof,0
+DE,wtr,car,0
+DE,sldg,car,0
+DE,oxi_con,cec,0
+DE,oxi_con,car,0
