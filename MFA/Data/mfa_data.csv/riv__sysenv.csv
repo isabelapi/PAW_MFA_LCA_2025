@@ -1,0 +1,13 @@
+time,scenario,substance,value
+2020,high_env_pol,car,9745444068.446857
+2020,high_env_pol,cec,1813.3079571843168
+2020,low_env_pol,car,9745444068.446857
+2020,low_env_pol,cec,1813.3079571843168
+2035,high_env_pol,car,9518589498.095098
+2035,high_env_pol,cec,1296.2150416056002
+2035,low_env_pol,car,9663542637.66
+2035,low_env_pol,cec,1405.6740201199998
+2045,high_env_pol,car,9207045172.6288
+2045,high_env_pol,cec,428.1183075999999
+2045,low_env_pol,car,9491799147.04
+2045,low_env_pol,cec,396.9293492
