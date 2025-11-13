@@ -15,8 +15,8 @@ time,carrier,scenario,substance,region,value
 2035,sldg,high_env_pol,cec,DE,0.0
 2035,sldg,low_env_pol,car,DE,0.0
 2035,sldg,low_env_pol,cec,DE,0.0
-2035,wtr,high_env_pol,car,DE,9518589498.095098
-2035,wtr,high_env_pol,cec,DE,1296.2150416056002
+2035,wtr,high_env_pol,car,DE,9518589498.0951
+2035,wtr,high_env_pol,cec,DE,1296.2150416056
 2035,wtr,low_env_pol,car,DE,9663542637.66
 2035,wtr,low_env_pol,cec,DE,1405.6740201199998
 2035,oxi_con,high_env_pol,car,DE,0.0
@@ -27,10 +27,10 @@ time,carrier,scenario,substance,region,value
 2045,sldg,high_env_pol,cec,DE,0.0
 2045,sldg,low_env_pol,car,DE,0.0
 2045,sldg,low_env_pol,cec,DE,0.0
-2045,wtr,high_env_pol,car,DE,9207045172.6288
-2045,wtr,high_env_pol,cec,DE,428.1183075999999
+2045,wtr,high_env_pol,car,DE,9207045172.628801
+2045,wtr,high_env_pol,cec,DE,428.1183076
 2045,wtr,low_env_pol,car,DE,9491799147.04
-2045,wtr,low_env_pol,cec,DE,396.9293492
+2045,wtr,low_env_pol,cec,DE,396.92934919999993
 2045,oxi_con,high_env_pol,car,DE,0.0
 2045,oxi_con,high_env_pol,cec,DE,0.0
 2045,oxi_con,low_env_pol,car,DE,0.0
